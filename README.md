@@ -1,6 +1,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=amineamri3&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=amineamri3&theme=dark&hide_border=false">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineamri3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
+
 # Hello friends 🖐️
 
 I'm Yassine Ouakli, a Software Engineering student from Tunisia.
@@ -16,6 +21,7 @@ I'm Yassine Ouakli, a Software Engineering student from Tunisia.
 #  How to reach me 📫
 
 yassineouakli.ou@gmail.com
+
 
 
 
