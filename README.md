@@ -1,15 +1,13 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Faça um breve apresentação sobre você
+### About Me :
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+I'm Yassine Ouakli, a Software Engineering student from Tunisia.
+
 
 <p>
-
-Estudando/trabalhando na **nome do lugar**<br/>
-
-Eu sou desenvolvedor **sua área**.
+- 🔭 I’m currently studting engineer in the higher institute of computer science of el manar.
 
 
 </p>
