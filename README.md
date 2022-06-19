@@ -13,6 +13,10 @@ I'm Yassine Ouakli, a Software Engineering student from Tunisia.
 </p>
 <hr>
 
+#  How to reach me 📫
+
+yassineouakli.ou@gmail.com
+
 
 
 <!--
