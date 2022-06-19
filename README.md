@@ -19,11 +19,14 @@ yassineouakli.ou@gmail.com
 
 # GitHub Stats 📊
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yassineou98/Yassineou98/master/profile-summary-card-output/solarized/0-profile-details.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yassineou98/Yassineou98/master/profile-summary-card-output/solarized/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yassineou98/Yassineou98/master/profile-summary-card-output/solarized/2-most-commit-language.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yassineou98/Yassineou98/master/profile-summary-card-output/solarized/3-stats.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Yassineou98/Yassineou98/master/profile-summary-card-output/solarized/4-productive-time.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg" alt="" style="max-width: 100%;"></a></p>
 
-
+<br/>
+<br/>
 <!--
 **Yassineou98/Yassineou98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
