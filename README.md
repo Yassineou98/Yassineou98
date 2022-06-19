@@ -7,7 +7,7 @@ I'm Yassine Ouakli, a Software Engineering student from Tunisia.
 
 
 <p>
-- 🔭 I’m currently studting engineer in the higher institute of computer science of el manar.
+- 🔭 I’m currently studying engineer in the higher institute of computer science of el manar.
 
 
 </p>
