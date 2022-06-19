@@ -1,8 +1,4 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-<img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 
 # Hello friends 🖐️
@@ -23,10 +19,9 @@ yassineouakli.ou@gmail.com
 
 # GitHub Stats 📊
 
-![]([https://github-readme-stats.vercel.app/api?username=amineamri3&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=amineamri3&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)<br/>
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=amineamri3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)
-
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineou98&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 
 <!--
